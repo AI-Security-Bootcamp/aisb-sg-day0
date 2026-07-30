@@ -1,6 +1,6 @@
 # %%
 """
-# Day 0 - Setup Check
+# Day 0 — Setup Check
 Welcome to the AI Security Bootcamp! Let's start with a super simple exercise to test your setup.
 
 <!-- toc -->
@@ -17,9 +17,9 @@ Practice information gathering using public APIs. In security, OSINT (Open Sourc
 ### 2️⃣ Git Workflow Practice
 Practice the git workflow you'll use throughout the bootcamp. This will help you get comfortable with the process of creating branches, committing changes, and pushing to the remote repository.
 
-## Exercise 1: Create a file
-> **Difficulty**: 🔴⚪⚪⚪⚪
-> **Importance**: 🔵🔵🔵🔵🔵
+## Exercise 0.1: Create a file
+> **Difficulty**: 1/5
+> **Importance**: 5/5
 
 Create a file named `day0_answers.py` in the `day0-setup` directory. This will be your answer file for this exercise.
 
@@ -49,9 +49,9 @@ After you paste the code snippet above to your answer file, **run the cell to en
 """
 # %%
 """
-## Exercise 2: Test Prerequisites
-> **Difficulty**: 🔴⚪⚪⚪⚪
-> **Importance**: 🔵🔵🔵🔵🔵
+## Exercise 0.2: Test Prerequisites
+> **Difficulty**: 1/5
+> **Importance**: 5/5
 
 Let's verify that your development environment is properly set up with all the required tools and dependencies.
 
@@ -227,9 +227,9 @@ def test_prerequisites():
 test_prerequisites()
 # %%
 """
-## Exercise 3: Use requests library to make a GET request (optional)
-> **Difficulty**: 🔴⚪⚪⚪⚪
-> **Importance**: 🔵🔵⚪⚪⚪
+## Exercise 0.3: Use requests library to make a GET request (optional)
+> **Difficulty**: 1/5
+> **Importance**: 2/5
 
 In this exercise, you will use the `requests` library to make a GET request to the GitHub API and analyze a user's activity patterns.
 
@@ -387,9 +387,9 @@ return UserIntel(
 
 # %%
 """
-## Exercise 4: Git Workflow Practice
-> **Difficulty**: 🔴⚪⚪⚪⚪
-> **Importance**: 🔵🔵⚪⚪⚪
+## Exercise 0.4: Git Workflow Practice
+> **Difficulty**: 1/5
+> **Importance**: 2/5
 
 Practice the git workflow you'll use throughout the bootcamp by running git commands directly.
 

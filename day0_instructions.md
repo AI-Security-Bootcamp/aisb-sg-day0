@@ -1,5 +1,5 @@
 
-# Day 0 - Setup Check
+# Day 0 — Setup Check
 Welcome to the AI Security Bootcamp! Let's start with a super simple exercise to test your setup.
 
 ## Table of Contents
@@ -7,11 +7,11 @@ Welcome to the AI Security Bootcamp! Let's start with a super simple exercise to
 - [Content & Learning Objectives](#content--learning-objectives)
     - [1️⃣ Using requests library](#1️⃣-using-requests-library)
     - [2️⃣ Git Workflow Practice](#2️⃣-git-workflow-practice)
-- [Exercise 1: Create a file](#exercise-1-create-a-file)
+- [Exercise 0.1: Create a file](#exercise-01-create-a-file)
     - [Common code](#common-code)
-- [Exercise 2: Test Prerequisites](#exercise-2-test-prerequisites)
-- [Exercise 3: Use requests library to make a GET request (optional)](#exercise-3-use-requests-library-to-make-a-get-request-optional)
-- [Exercise 4: Git Workflow Practice](#exercise-4-git-workflow-practice)
+- [Exercise 0.2: Test Prerequisites](#exercise-02-test-prerequisites)
+- [Exercise 0.3: Use requests library to make a GET request (optional)](#exercise-03-use-requests-library-to-make-a-get-request-optional)
+- [Exercise 0.4: Git Workflow Practice](#exercise-04-git-workflow-practice)
     - [Instructions](#instructions)
     - [Expected Results](#expected-results)
 - [Further Reading](#further-reading)
@@ -28,9 +28,9 @@ Practice information gathering using public APIs. In security, OSINT (Open Sourc
 ### 2️⃣ Git Workflow Practice
 Practice the git workflow you'll use throughout the bootcamp. This will help you get comfortable with the process of creating branches, committing changes, and pushing to the remote repository.
 
-## Exercise 1: Create a file
-> **Difficulty**: 🔴⚪⚪⚪⚪
-> **Importance**: 🔵🔵🔵🔵🔵
+## Exercise 0.1: Create a file
+> **Difficulty**: 1/5
+> **Importance**: 5/5
 
 Create a file named `day0_answers.py` in the `day0-setup` directory. This will be your answer file for this exercise.
 
@@ -61,9 +61,9 @@ print("It works!")
 After you paste the code snippet above to your answer file, **run the cell to ensure it works** (typically Ctrl+Enter in VS Code).
 
 
-## Exercise 2: Test Prerequisites
-> **Difficulty**: 🔴⚪⚪⚪⚪
-> **Importance**: 🔵🔵🔵🔵🔵
+## Exercise 0.2: Test Prerequisites
+> **Difficulty**: 1/5
+> **Importance**: 5/5
 
 Let's verify that your development environment is properly set up with all the required tools and dependencies.
 
@@ -78,9 +78,9 @@ from day0_test import test_prerequisites
 test_prerequisites()
 ```
 
-## Exercise 3: Use requests library to make a GET request (optional)
-> **Difficulty**: 🔴⚪⚪⚪⚪
-> **Importance**: 🔵🔵⚪⚪⚪
+## Exercise 0.3: Use requests library to make a GET request (optional)
+> **Difficulty**: 1/5
+> **Importance**: 2/5
 
 In this exercise, you will use the `requests` library to make a GET request to the GitHub API and analyze a user's activity patterns.
 
@@ -182,9 +182,9 @@ return UserIntel(
 </blockquote></details>
 
 
-## Exercise 4: Git Workflow Practice
-> **Difficulty**: 🔴⚪⚪⚪⚪
-> **Importance**: 🔵🔵⚪⚪⚪
+## Exercise 0.4: Git Workflow Practice
+> **Difficulty**: 1/5
+> **Importance**: 2/5
 
 Practice the git workflow you'll use throughout the bootcamp by running git commands directly.
 
