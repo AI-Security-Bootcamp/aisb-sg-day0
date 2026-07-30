@@ -6,8 +6,8 @@ Welcome to the [AI Security Bootcamp](https://www.aisb.dev/)! This repo contains
 
 ### Setup
 
-- Complete the checks in the [participant setup instructions](day0_instructions.md).
 - Install [Docker](https://docs.docker.com/engine/install/), [Git](https://git-scm.com/downloads), [Python](https://www.python.org/downloads/), and [VS Code with Jupyter support](https://code.visualstudio.com/docs/datascience/jupyter-notebooks), and confirm that you can access GitHub.
+- Complete the checks in the [participant setup instructions](day0_instructions.md).
 - Obtain the event-provided API and GPU credentials before the live programme.
 
 ## Prerequisites
